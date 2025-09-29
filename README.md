@@ -1,2 +1,3 @@
 # shadow
-CTF{hahahahaa}
+CTF{PIN}
+nZD:\8^Xm@
