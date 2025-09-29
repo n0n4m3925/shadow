@@ -1,0 +1,2 @@
+# shadow
+CTF{hahahahaa}
